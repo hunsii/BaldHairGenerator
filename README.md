@@ -1,5 +1,5 @@
 # BaldHairGenerator
-![teaser](docs/assets/teaser.png)
+![teaser](overview.jpg)
 
 
 
@@ -19,22 +19,16 @@ and put them in the `input/face` folder.
 
 ## Getting Started  
 Preprocess your own images. Please put the raw images in the `unprocessed` folder.
+Processed images is in `input/face/` folder.
 ```
 python align_face.py
 ```
 
+
 Produce realistic results:
 ```
-python main.py --im_path1 90.png
+python main.py --im_path1 14.png
 ```
 
-
-## Todo List
-* add a detailed readme
-* update mask inpainting code
-* integrate image encoder
-* add preprocessing step
-* ...
-
 ## Acknowledgments
-This code borrows heavily from [II2S](https://github.com/ZPdesu/II2S).
+This code borrows heavily from [Barbershop](https://github.com/ZPdesu/Barbersho).
