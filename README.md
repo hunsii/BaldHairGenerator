@@ -34,9 +34,9 @@ Produce realistic results:
 python main.py --im_path1 14.png
 ```
 
-If you have latent code in W+ latent space, use can use it and reduce time.
+If you have latent code in W+ latent space, you can use it and reduce running time.
 ```
-python main.py --im_path1 14.png --W_saved_latent ../hair/Barbershop/input/latent/14.npz --W_steps 0
+python main.py --im_path1 14.png --W_saved_latent input/latent/14.npz --W_steps 0
 ```
 ## Acknowledgments
 This code borrows heavily from [Barbershop](https://github.com/ZPdesu/Barbersho).
