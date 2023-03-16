@@ -6,8 +6,8 @@
 ## Installation
 - Clone the repository:
 ``` 
-git clone https://github.com/ZPdesu/Barbershop.git
-cd Barbershop
+git clone https://github.com/hunsii/BaldHairGenerator
+cd BaldHairGenerator
 ```
 - Dependencies:  
 
