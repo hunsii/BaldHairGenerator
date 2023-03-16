@@ -1,4 +1,5 @@
 # BaldHairGenerator
+Remove hair from portrait images.
 ![teaser](overview.jpg)
 
 
