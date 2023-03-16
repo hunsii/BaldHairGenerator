@@ -9,7 +9,6 @@
 git clone https://github.com/hunsii/BaldHairGenerator
 cd BaldHairGenerator
 ```
-- Dependencies:  
 
 
 ## Download II2S images
