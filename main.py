@@ -15,7 +15,6 @@ from PIL import Image
 
 from models.Embedding import Embedding
 from models.AlignmentBaldHair import Alignment
-# from models.Blending import Blending
 
 from utils.data_utils import convert_npy_code
 toPIL = torchvision.transforms.ToPILImage()
