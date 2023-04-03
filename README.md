@@ -2,7 +2,8 @@
 Remove hair from portrait images.
 ![teaser](overview.jpg)
 
-
+## ToDo
+test more images
 
 ## Installation
 - Clone the repository:
