@@ -4,6 +4,7 @@ Remove hair from portrait images.
 
 ## ToDo
 test more images
+HairMapper
 
 ## Installation
 - Clone the repository:
